@@ -13,5 +13,7 @@ flutter emluators --launch [device_name]
 flutter run
 ```
 ## Screenshots
->
+><p float="middle">
+<img src="./Screenshots/Screenshot_1.png" width=300 height=600/> <img src="./Screenshots/Screenshot_2.png" width=300 height=600/>
+</p>
 
